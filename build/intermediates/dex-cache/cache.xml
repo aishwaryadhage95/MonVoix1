@@ -3,120 +3,120 @@
 
     <item
         is-multidex="false"
-        jar="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.1.0_1fa0d14e2552922356e42d13b76dac6bc712670d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.1.0_04f30d5a10392dda960f0b4c27cc8653c658b9d0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.1.0_ba86aa307392c334342e0a81c0e64072bde90783.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MTNL\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\support-annotations-25.1.0_49556af7a88c37e78d4ed1a4a788e2c678fb8bde.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.1.0_3a3c8e7275ac63381e71e06a48d463d13b48ab32.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.1.0_384b1b55bcdc9550638f72245a86ee647ec97e51.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.1.0_0f27076a5704c30b160db6f81be3f20eb9f738fb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.1.0_3798076fc519d5132b5f038ffc7116865752f4db.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.1.0_1ec430b9f743dac3872a611debbff6de52a131eb.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\exploded-aar\com.android.support\design\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.1.0_7f4237192c4ff4d0bcfdb8ce0e02bcf165079f2d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.1.0_ff6c59980079fb06f9e95427648af079447558b6.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.1.0_c4d09c42690be5d01b6f1e8c4fc7b0f6ef172898.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jar="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="C:\Users\MTNL\AndroidStudioProjects\MonVoix1\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.1.0_e4fbb6fb22b6ccefbe3ca5edad820e2aabd5a474.jar" />
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_8e5d3b6377e6dd12088552988d850c46cdd04f39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_52cf5ab891a73f09a8f161f3941ebc6cd622a62b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_18586c58dfe8bb8bcc4f2afd285ab43b757e42ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_63a4d11890b1c1ddbbc5d67b7254c2c40a2fa2cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_2a103a87423398b4bc00c7bf40e1c4a7e6cd9520.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_a21d9ae34221cb7e1c8972dfdbeecddc94410d57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_4ac5b31813203568351daf526674d87c9cd60d9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_e27503638d49308cace48fbbecbc5008119046b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aishwarya/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_1ba12d5d9c258ece5d551212a31dfaa5fc98467a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_d2334fa32dbeefa5ec3084dd2adf6734f5b600b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_adde5949ec3bbf66d04170954ae35381fc15f35f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_eb53ba2d9948f9a62748341d5504646d72fe82d9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_edee63ecdc663b759130b41ba59740d4d382b17c.jar" />
     </item>
 
 </items>

@@ -32,6 +32,7 @@
             android:name="com.example.ash.monvoix1.SpeechtoText"
             android:label="@string/title_activity_speechto_text"
             android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name="com.example.ash.monvoix1.Sending" />
     </application>
 
 </manifest>

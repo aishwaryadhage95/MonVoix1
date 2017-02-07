@@ -10,11 +10,14 @@ package com.example.ash.monvoix1;
         import android.content.Intent;
         import android.os.Bundle;
         import android.speech.RecognizerIntent;
+        import android.support.design.widget.FloatingActionButton;
         import android.view.Menu;
         import android.view.View;
         import android.widget.ImageButton;
         import android.widget.TextView;
         import android.widget.Toast;
+
+        import static com.example.ash.monvoix1.R.id.fab;
 
 public class SpeechtoText extends Activity {
 
@@ -29,7 +32,18 @@ protected void onCreate(Bundle savedInstanceState) {
         setContentView(R.layout.activity_speechto_text);
         txtSpeechInput = (TextView) findViewById(R.id.txtSpeechInput);
         btnSpeak = (ImageButton) findViewById(R.id.btnSpeak);
+    ImageButton fab = (ImageButton) findViewById(R.id.fab);
 
+    final String theText = txtSpeechInput.getText().toString();
+    fab.setOnClickListener(new View.OnClickListener() {
+        @Override
+        public void onClick(View v) {
+            //here
+            Intent i= new Intent(SpeechtoText.this,Sending.class);
+            i.putExtra("text_label", theText);
+            startActivity(i);
+        }
+    });
         btnSpeak.setOnClickListener(new View.OnClickListener() {
 
 @Override
@@ -53,6 +67,8 @@ public void onClick(View v) {
         getString(R.string.speech_not_supported),
         Toast.LENGTH_SHORT).show();
         }
+
+
         }
 
 /**

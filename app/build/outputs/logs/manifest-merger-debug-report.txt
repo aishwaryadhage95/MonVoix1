@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:2:1-31:12
+ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:2:1-32:12
 	package
 		ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:3:5-39
 		INJECTED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml
@@ -14,7 +14,7 @@ ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:
 		INJECTED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:5:5-29:19
+ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:5:5-30:19
 MERGED from [com.android.support:design:25.1.0] /Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.1.0] /Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.1.0] /Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/AndroidManifest.xml:22:5-20
@@ -63,13 +63,17 @@ ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:
 	android:name
 		ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:22:13-41
 activity#com.example.ash.monvoix1.SpeechtoText
-ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:25:9-28:68
+ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:25:9-28:59
 	android:label
 		ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:27:13-65
 	android:theme
 		ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:28:13-56
 	android:name
 		ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:26:13-41
+activity#com.example.ash.monvoix1.Sending
+ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:29:9-54
+	android:name
+		ADDED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml:29:19-42
 uses-sdk
 INJECTED from /Users/aishwarya/Downloads/MonVoix1/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.1.0] /Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/AndroidManifest.xml:21:5-23:62
