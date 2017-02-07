@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/aishwarya/Downloads/MonVoix1/C:\\Users\\MTNL\\AndroidStudioProjects\\MonVoix1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
+        "source": "/Users/aishwarya/Downloads/MonVoix1/C:\\Users\\MTNL\\AndroidStudioProjects\\MonVoix1\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/aishwarya/Downloads/MonVoix1/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/aishwarya/Downloads/MonVoix1/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    }
+]
